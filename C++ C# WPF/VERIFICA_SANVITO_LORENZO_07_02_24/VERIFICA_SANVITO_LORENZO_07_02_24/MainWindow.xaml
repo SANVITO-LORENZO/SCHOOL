@@ -1,0 +1,28 @@
+﻿<Window x:Class="VERIFICA_SANVITO_LORENZO_07_02_24.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VERIFICA_SANVITO_LORENZO_07_02_24"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lista_giochi" d:ItemsSource="{d:SampleData ItemCount=5}" HorizontalAlignment="Left" Width="168" Height="379" VerticalAlignment="Center" Margin="34,0,0,0"/>
+        <TextBox x:Name="TXT_NOME" HorizontalAlignment="Left" Margin="355,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Height="43"/>
+        <TextBox x:Name="TXT_DESCRIZIONE" HorizontalAlignment="Left" Margin="355,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Height="43"/>
+        <TextBox x:Name="TXT_PREZZO" HorizontalAlignment="Left" Margin="355,179,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Height="43"/>
+        <ComboBox x:Name="COMBO_GENERE" HorizontalAlignment="Left" Margin="355,299,0,0" VerticalAlignment="Top" Width="120" Height="43"/>
+        <Button x:Name="BTT_INSERISCI" Content="NUOVO GIOCO" HorizontalAlignment="Left" Margin="618,50,0,0" VerticalAlignment="Top" Height="48" Width="131" Click="BTT_INSERISCI_Click"/>
+        <Button x:Name="BTT_RIMUOVI" Content="RIMUOVI" HorizontalAlignment="Left" Margin="618,114,0,0" VerticalAlignment="Top" Height="48" Width="131" Click="BTT_RIMUOVI_Click"/>
+        <Button x:Name="BTT_CARRELLO" Content="CARRELLO" HorizontalAlignment="Left" Margin="618,296,0,0" VerticalAlignment="Top" Height="48" Width="131" Click="BTT_CARRELLO_Click"/>
+        <Label Content="NOME" HorizontalAlignment="Left" Margin="266,59,0,0" VerticalAlignment="Top" Width="134"/>
+        <Label Content="DESCRIZIONE" HorizontalAlignment="Left" Margin="266,119,0,0" VerticalAlignment="Top" Width="134"/>
+        <Label Content="PREZZO" HorizontalAlignment="Left" Margin="266,179,0,0" VerticalAlignment="Top" Width="134"/>
+        <Label Content="DATA USCITA" HorizontalAlignment="Left" Margin="266,239,0,0" VerticalAlignment="Top" Width="134"/>
+        <Label Content="GENERE" HorizontalAlignment="Left" Margin="266,299,0,0" VerticalAlignment="Top" Width="134"/>
+        <DatePicker x:Name="DATA_PICKER" HorizontalAlignment="Left" Margin="355,241,0,0" VerticalAlignment="Top" Width="120" Height="36"/>
+        <Button x:Name="BTT_INSERISCI_Copia" Content="INSERISCI A CARRELLO" HorizontalAlignment="Left" Margin="618,238,0,0" VerticalAlignment="Top" Height="48" Width="131" Click="BTT_INSERISCI_Copia_Click"/>
+        <Button x:Name="BTT_VISUALIZZA" Content="VISUALIZZA" HorizontalAlignment="Left" Margin="618,176,0,0" VerticalAlignment="Top" Height="48" Width="131" Click="BTT_VISUALIZZA_Click"/>
+
+    </Grid>
+</Window>

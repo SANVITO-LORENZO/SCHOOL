@@ -1,0 +1,11 @@
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\bin\Debug\prenotazionebiglietto.exe.config
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\bin\Debug\prenotazionebiglietto.exe
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\bin\Debug\prenotazionebiglietto.pdb
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\obj\Debug\prenotazionebiglietto.csproj.AssemblyReference.cache
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\obj\Debug\prenotazionebiglietto.Form1.resources
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\obj\Debug\prenotazionebiglietto.Properties.Resources.resources
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\obj\Debug\prenotazionebiglietto.csproj.GenerateResource.cache
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\obj\Debug\prenotazionebiglietto.csproj.CoreCompileInputs.cache
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\obj\Debug\prenotazionebiglietto.exe
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\obj\Debug\prenotazionebiglietto.pdb
+D:\SANVITO LORENZO\prenotazionebiglietto\prenotazionebiglietto\obj\Debug\prenotazionebiglietto.Form2.resources

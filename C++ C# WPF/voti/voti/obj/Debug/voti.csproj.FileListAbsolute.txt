@@ -1,0 +1,20 @@
+D:\SANVITO LORENZO\voti\voti\bin\Debug\voti.exe.config
+D:\SANVITO LORENZO\voti\voti\bin\Debug\voti.exe
+D:\SANVITO LORENZO\voti\voti\bin\Debug\voti.pdb
+D:\SANVITO LORENZO\voti\voti\obj\Debug\voti.csproj.AssemblyReference.cache
+D:\SANVITO LORENZO\voti\voti\obj\Debug\voti.Form1.resources
+D:\SANVITO LORENZO\voti\voti\obj\Debug\voti.Properties.Resources.resources
+D:\SANVITO LORENZO\voti\voti\obj\Debug\voti.csproj.GenerateResource.cache
+D:\SANVITO LORENZO\voti\voti\obj\Debug\voti.csproj.CoreCompileInputs.cache
+D:\SANVITO LORENZO\voti\voti\obj\Debug\voti.exe
+D:\SANVITO LORENZO\voti\voti\obj\Debug\voti.pdb
+C:\Users\loris_7duv\Desktop\voti\voti\bin\Debug\voti.exe.config
+C:\Users\loris_7duv\Desktop\voti\voti\bin\Debug\voti.exe
+C:\Users\loris_7duv\Desktop\voti\voti\bin\Debug\voti.pdb
+C:\Users\loris_7duv\Desktop\voti\voti\obj\Debug\voti.csproj.AssemblyReference.cache
+C:\Users\loris_7duv\Desktop\voti\voti\obj\Debug\voti.Form1.resources
+C:\Users\loris_7duv\Desktop\voti\voti\obj\Debug\voti.Properties.Resources.resources
+C:\Users\loris_7duv\Desktop\voti\voti\obj\Debug\voti.csproj.GenerateResource.cache
+C:\Users\loris_7duv\Desktop\voti\voti\obj\Debug\voti.csproj.CoreCompileInputs.cache
+C:\Users\loris_7duv\Desktop\voti\voti\obj\Debug\voti.exe
+C:\Users\loris_7duv\Desktop\voti\voti\obj\Debug\voti.pdb

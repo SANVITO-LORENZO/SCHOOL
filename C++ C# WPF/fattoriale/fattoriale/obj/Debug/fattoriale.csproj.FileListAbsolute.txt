@@ -1,0 +1,10 @@
+D:\SANVITO LORENZO\fattoriale\fattoriale\bin\Debug\fattoriale.exe.config
+D:\SANVITO LORENZO\fattoriale\fattoriale\bin\Debug\fattoriale.exe
+D:\SANVITO LORENZO\fattoriale\fattoriale\bin\Debug\fattoriale.pdb
+D:\SANVITO LORENZO\fattoriale\fattoriale\obj\Debug\fattoriale.csproj.AssemblyReference.cache
+D:\SANVITO LORENZO\fattoriale\fattoriale\obj\Debug\fattoriale.Form1.resources
+D:\SANVITO LORENZO\fattoriale\fattoriale\obj\Debug\fattoriale.Properties.Resources.resources
+D:\SANVITO LORENZO\fattoriale\fattoriale\obj\Debug\fattoriale.csproj.GenerateResource.cache
+D:\SANVITO LORENZO\fattoriale\fattoriale\obj\Debug\fattoriale.csproj.CoreCompileInputs.cache
+D:\SANVITO LORENZO\fattoriale\fattoriale\obj\Debug\fattoriale.exe
+D:\SANVITO LORENZO\fattoriale\fattoriale\obj\Debug\fattoriale.pdb

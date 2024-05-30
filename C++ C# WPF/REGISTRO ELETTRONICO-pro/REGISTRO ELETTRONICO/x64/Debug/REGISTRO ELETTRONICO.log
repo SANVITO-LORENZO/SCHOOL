@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\loris_7duv\Desktop\REGISTRO ELETTRONICO\REGISTRO ELETTRONICO\main.cpp(3,13): warning C4326: il tipo restituito di 'main' dovrebbe essere 'int' invece di 'void'
+C:\Users\loris_7duv\Desktop\REGISTRO ELETTRONICO\REGISTRO ELETTRONICO\main.cpp(4,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\loris_7duv\Desktop\REGISTRO ELETTRONICO\REGISTRO ELETTRONICO\main.cpp(9,27): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\loris_7duv\Desktop\REGISTRO ELETTRONICO\REGISTRO ELETTRONICO\main.cpp(15,27): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\loris_7duv\Desktop\REGISTRO ELETTRONICO\REGISTRO ELETTRONICO\main.cpp(21,27): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\loris_7duv\Desktop\REGISTRO ELETTRONICO\REGISTRO ELETTRONICO\main.cpp(27,27): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+  REGISTRO ELETTRONICO.vcxproj -> C:\Users\loris_7duv\Desktop\REGISTRO ELETTRONICO\x64\Debug\REGISTRO ELETTRONICO.exe

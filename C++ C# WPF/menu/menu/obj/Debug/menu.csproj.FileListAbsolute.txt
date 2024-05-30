@@ -1,0 +1,10 @@
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\bin\Debug\menu.exe.config
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\bin\Debug\menu.exe
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\bin\Debug\menu.pdb
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\obj\Debug\menu.Form1.resources
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\obj\Debug\menu.Properties.Resources.resources
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\obj\Debug\menu.csproj.GenerateResource.cache
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\obj\Debug\menu.exe
+C:\Users\loris_7duv\Desktop\ripasso informatica\menu\menu\obj\Debug\menu.pdb

@@ -1,0 +1,36 @@
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.csproj.AssemblyReference.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\MainWindow.g.cs
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\App.g.cs
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO_MarkupCompile.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO_MarkupCompile.lref
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\bin\Debug\COMPITOINFO.exe.config
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\bin\Debug\COMPITOINFO.exe
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\bin\Debug\COMPITOINFO.pdb
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\MainWindow.baml
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.g.resources
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.Properties.Resources.resources
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.csproj.GenerateResource.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.csproj.CoreCompileInputs.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.exe
+C:\Users\loris_7duv\Desktop\ripasso info c#\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.pdb
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.csproj.AssemblyReference.cache
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\MainWindow.g.cs
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\scelta_squadra.g.cs
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\App.g.cs
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO_MarkupCompile.cache
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO_MarkupCompile.lref
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.exe
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.pdb
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\bin\Debug\COMPITOINFO.exe.config
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\bin\Debug\COMPITOINFO.exe
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\bin\Debug\COMPITOINFO.pdb
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\MainWindow.baml
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\scelta_squadra.baml
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.g.resources
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.Properties.Resources.resources
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.csproj.GenerateResource.cache
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\COMPITOINFO.csproj.CoreCompileInputs.cache
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\creazione_squadra.g.cs
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\creazione_squadra.baml
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\statistiche.g.cs
+C:\Users\loris_7duv\Desktop\progetto informatica\COMPITOINFO\COMPITOINFO\obj\Debug\statistiche.baml

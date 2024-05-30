@@ -1,0 +1,18 @@
+﻿<Window x:Class="COMPITOINFO.scelta_squadra"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:COMPITOINFO"
+        mc:Ignorable="d"
+        Title="scelta_squadra" Height="275" Width="319">
+    <Grid Margin="0,0,10,-6">
+        <Label Content="SCELTA SQUADRA" HorizontalAlignment="Left" Margin="41,12,0,0" VerticalAlignment="Top" Width="225" FontWeight="Bold" FontSize="24"/>
+        <TextBox x:Name="text_box_squadra1" HorizontalAlignment="Left" Margin="114,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <TextBox x:Name="text_box_squadra2" HorizontalAlignment="Left" Margin="114,107,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <RadioButton x:Name="radiobuttn_1" Content="" HorizontalAlignment="Left" Margin="72,69,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
+        <RadioButton x:Name="radiobuttn_2" Content="" HorizontalAlignment="Left" Margin="72,113,0,0" VerticalAlignment="Top" Checked="radiobuttn_2_Checked"/>
+        <Button x:Name="btt" Content="CONTINUA" HorizontalAlignment="Center" Margin="0,150,0,67" Width="166" RenderTransformOrigin="0.117,-1.565" Click="btt_Click"/>
+
+    </Grid>
+</Window>

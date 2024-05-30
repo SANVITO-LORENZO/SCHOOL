@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <script src="javascript.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CALCOLATORE</title>
+
+</head>
+<body>
+    <div class="container">
+        <h1 id="titolo"> CALCOLO INTERESSE COMPOSTO </h1>
+
+        <div class="separa">
+            <fieldset>
+                <legend>DATI PER IL CALCOLO:</legend>
+                <label for="capitale">CAPITALE INIZIALE C:</label>
+                <br>
+                <input type="text" id="capitale" name="capitale">
+                <label for="capitale">€</label>
+                <br><br>
+                <label for="tasso">TASSO DI INTERESSE I:</label>
+                <br>
+                <input type="text" id="tasso" name="tasso">
+                <label for="tasso">%</label>
+                <br><br>
+                <label for="tempo">TEMPO t:</label>
+                <br>
+                <input type="text" id="tempo" name="tempo">
+                <label for="tempo">anni</label>
+                <br><br>
+            </fieldset>
+        </div>
+
+        <div class="separa">
+            <button id="bottone" onclick="premuto()">CALCOLA</button>    
+        </div>
+        
+
+        <div class="separa">
+            <fieldset>
+                <legend>RISULTATI:</legend>
+                <label for="interesse">INTERESSE I:</label>
+                <br>
+                <input type="text" id="interesse" name="interesse">
+                <label for="interesse">€</label>
+                <br><br>
+                <label for="montante">MONTANTE M:</label>
+                <br>
+                <input type="text" id="montante" name="montante">
+                <label for="montante">%</label>
+            </fieldset>    
+        </div>
+
+    </div>
+</body>
+</html>

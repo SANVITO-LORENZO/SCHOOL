@@ -1,0 +1,12 @@
+.bordato{
+    border: 1px solid black;
+}
+.divdiv{
+    overflow: hidden;
+    width: 244px;
+    height: 200px;
+}
+img{
+    position:relative;
+    top: -10px;
+}

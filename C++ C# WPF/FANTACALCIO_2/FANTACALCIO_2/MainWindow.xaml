@@ -1,0 +1,18 @@
+﻿<Window x:Class="FANTACALCIO_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FANTACALCIO_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="LISTA_GIOCATORI" d:ItemsSource="{d:SampleData ItemCount=15}" Margin="187,51,400,40" SelectionChanged="LISTA_GIOCATORI_SelectionChanged"/>
+        <Button x:Name="BTT_AGGIUNGI" Content="AGGIUNGI" HorizontalAlignment="Left" Margin="44,0,0,0" VerticalAlignment="Center" RenderTransformOrigin="-12.387,-2.568" Height="306" Width="118" Click="BTT_AGGIUNGI_Click"/>
+        <TextBox x:Name="TXT_BOX" HorizontalAlignment="Left" Margin="187,28,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="213" IsEnabled="False"/>
+        <ListBox x:Name="LISTA_TITOLARI" d:ItemsSource="{d:SampleData ItemCount=11}" Margin="439,47,148,145"/>
+        <Button x:Name="BTT_SALVA" Content="SALVA" HorizontalAlignment="Left" Margin="439,312,0,0" VerticalAlignment="Top" RenderTransformOrigin="-12.387,-2.568" Height="82" Width="284" Click="BTT_SALVA_Click" />
+        <TextBox x:Name="TXT" HorizontalAlignment="Left" Margin="668,47,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="122" IsEnabled="True" Height="242"/>
+
+    </Grid>
+</Window>

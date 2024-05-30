@@ -1,0 +1,9 @@
+<map id="JMovimenti" name="JMovimenti">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,91,83"/>
+<area shape="rect" id="Node000002" href="$class_j_movimenti.html#af311d44abde31f46422f50a9fdc24468" title=" " alt="" coords="139,5,223,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,53,129,35,131,40,86,58"/>
+<area shape="rect" id="Node000003" href="$class_j_movimenti.html#aedd6714e6eecb0f319363eeee9a17c44" title=" " alt="" coords="148,56,214,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,67,133,67,133,72,91,72"/>
+<area shape="rect" id="Node000004" href="$class_j_movimenti.html#a93d5d33264f76f1dd9dfb2e2ecbf39bc" title=" " alt="" coords="140,107,222,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="86,81,131,98,129,103,84,86"/>
+</map>

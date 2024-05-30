@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+#contenitore{
+    max-width: 300px;
+    padding-top: 50px;
+    margin: auto;
+}
+
+.input_NeC{
+    margin:10px 0px;
+    width: 100%;
+}
+.combobox{
+    width: 100%;
+    margin:10px 0px
+}
+
+#dataTimePicker{
+    width: 100%;
+    margin:10px 0px
+}
+
+#countdown{
+    font-size: 50px;
+    font-weight: bold;
+}

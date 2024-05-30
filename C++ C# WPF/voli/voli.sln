@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "voli", "voli\voli.csproj", "{702BDF27-2570-422D-AD92-4AB0FAB59833}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{072942D8-C7E8-434D-9371-F549550C4830}"
+	ProjectSection(SolutionItems) = preProject
+		voli\0.jpg = voli\0.jpg
+		voli\1.jpg = voli\1.jpg
+		voli\2.jpg = voli\2.jpg
+		voli\3.jpg = voli\3.jpg
+		voli\4.jpg = voli\4.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702BDF27-2570-422D-AD92-4AB0FAB59833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702BDF27-2570-422D-AD92-4AB0FAB59833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702BDF27-2570-422D-AD92-4AB0FAB59833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702BDF27-2570-422D-AD92-4AB0FAB59833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A3CDF33-F8D6-4BD0-B159-029BCC507BAC}
+	EndGlobalSection
+EndGlobal

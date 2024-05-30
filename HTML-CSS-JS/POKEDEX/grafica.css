@@ -1,0 +1,51 @@
+body {
+    background-image: url("./img/background2.png");
+    background-repeat: no-repeat;
+    background-size:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+  }
+
+.container{
+    width: 700px;
+    text-align: center;
+    margin: auto;
+  }
+
+.table_menu{
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}
+
+.table_menu, .table_menu td{
+  border: 1px outset orange;
+  border-collapse: collapse;
+}
+
+#logo{
+  display: flex;
+  margin: auto;
+  width: 500px;
+}
+
+.trasparenza{
+  width: 100%;
+  border: 1px outset orange;
+  background-color:rgba(255, 255, 255, 0.7);
+}
+
+#tabella_pokekedex{
+  text-align: center;
+  margin: auto;
+}
+
+.freccia{
+  width: 40px;
+}
+.pokemon{
+  width: 80px;
+}
+.pokemon_specifico{
+  width: 150px;
+}

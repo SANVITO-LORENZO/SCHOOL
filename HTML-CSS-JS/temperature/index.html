@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TEMPERATURE</title>
+
+    <script>
+        let Tiniziale;
+        let Tfinale;
+
+        function bottone_premuto(){
+            
+            Tiniziale=document.getElementById("txt1").value;
+            let Scelta1;
+            let scelta2;
+
+            Scelta1=document.getElementById("txt2").value;
+
+            let r1 = document.getElementById("C");
+            let r2 = document.getElementById("F");
+            let r3 = document.getElementById("K");
+
+            if(r1.checked == true) {
+                scelta2 = "C";
+            }
+            else if(r2.checked == true){
+                scelta2 = "F";
+            }
+            else if(r3.checked == true){
+                scelta2 = "K";
+            }
+
+            if (Scelta1=='C') {
+                if(scelta2=='C'){
+                    Tfinale=Tiniziale;
+                }
+                else if (scelta2=='F') {
+                    Tfinale= (Tiniziale * (9/5)) + 32;
+                }
+                else if (scelta2=='K') {
+                    Tfinale=Tiniziale+ 273.15;
+                }
+            }
+
+            else if (Scelta1=='F') {
+                if(scelta2=='C'){
+                    Tfinale=(Tiniziale - 32) / 1.8;
+                }
+                else if (scelta2=='F') {
+                    Tfinale=Tiniziale;
+                }
+                else if (scelta2=='K') {
+                    Tfinale= (Tiniziale - 32) * (5/9) + 273.15;
+                }
+            }
+
+            else if (Scelta1=='K') {
+                if(scelta2=='C'){
+                    Tfinale= Tiniziale - 273.15;
+                }
+                else if (scelta2=='F') {
+                    Tfinale= (1.8 * Tiniziale) - 32;
+                }
+                else if (scelta2=='K') {
+                    Tfinale=Tiniziale;
+                }
+            }
+            document.getElementById("txt3").innerHTML=Tfinale;
+        }
+        
+
+    </script>
+
+
+</head>
+<body>
+    <div class="container">
+
+        <h1 id="titolo" class="grassetto">CONVERTITORE DI TEMPERATURA</h1>
+
+        <br>
+        
+        <label for="txt1">INSERISCI LA TEMPERATURA: </label>
+        <input type="text" id="txt1">
+        <label for="txt2">SCALA INIZIALE: </label>
+        <select id="txt2">
+            <option value="C">CELSIUS</option>
+            <option value="F">FAHRENHEIT</option>
+            <option value="K">KELVIN</option>
+        </select>
+
+        <br>
+        <br>
+
+        <table>
+            <td class="colonna">            
+                <label class="grassetto">SCALA FINALE:</label> <br>
+                <input type="radio" name="scelta" id="C">CELSIUS <br>
+                <input type="radio" name="scelta" id="F">FAHRENHEIT <br>
+                <input type="radio" name="scelta" id="K">KELVIN <br>
+            </td>
+            <td class="colonna"></td>
+            <td class="colonna">
+                <button id="bottone" class="grassetto" onclick="bottone_premuto()">CONVERTI</button>
+            </td>
+        </table>
+    
+        <br>
+        <br>
+
+        <label for="txt3">TEMPERATURA CONVERTITA: </label>
+        <output type="text" id="txt3" disabled="disabled">
+    </div>
+
+</body>
+</html>

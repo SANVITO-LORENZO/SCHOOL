@@ -1,0 +1,278 @@
+\doxysection{JConto Class Reference}
+\hypertarget{class_j_conto}{}\label{class_j_conto}\index{JConto@{JConto}}
+
+
+Collaboration diagram for JConto\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{class_j_conto__coll__graph}
+\end{center}
+\end{figure}
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{class_j_conto_a7e7be43712194bf676763eeb94de1146}{JConto}} (String \mbox{\hyperlink{class_j_conto_a4cfff30ec02286864b995e013b6c2a41}{nome}})
+\item 
+\mbox{\hyperlink{class_j_conto_a374acfdf262e6cac9e21b441c2bf6e8a}{JConto}} ()
+\item 
+void \mbox{\hyperlink{class_j_conto_a4d41b18fe7ae467fec31ac2851f94b60}{set\+Nome}} (String \mbox{\hyperlink{class_j_conto_a4cfff30ec02286864b995e013b6c2a41}{nome}})
+\item 
+String \mbox{\hyperlink{class_j_conto_a7b7ff7170199143b160d41a3e73201f4}{get\+Nome}} ()
+\item 
+void \mbox{\hyperlink{class_j_conto_a98e139540dd0f6ee9bf88bc32fb7a731}{add\+Movimento}} (\mbox{\hyperlink{class_j_movimenti}{JMovimenti}} movimento)
+\item 
+int \mbox{\hyperlink{class_j_conto_a85c5afde0aeb7299a2dd5f35921da422}{get\+Saldo}} ()
+\item 
+String \mbox{\hyperlink{class_j_conto_a9660dcf6252dcd22a965bdd7285857e2}{get\+Estratto}} ()
+\item 
+void \mbox{\hyperlink{class_j_conto_a156e1724d48c283897b67dc035276aae}{elimina\+Movimento}} (int giorno, int mese, int anno)
+\end{DoxyCompactItemize}
+\doxysubsubsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+final int \mbox{\hyperlink{class_j_conto_a18bb187032bad829b19b54c1ca25ba4d}{MAXEL}} = 50
+\item 
+\mbox{\hyperlink{class_j_movimenti}{JMovimenti}}\mbox{[}$\,$\mbox{]} \mbox{\hyperlink{class_j_conto_a9de4c2a18f01ed5c611e43a5a8a07d1d}{vett}}
+\item 
+int \mbox{\hyperlink{class_j_conto_a3311aa6552b45a4506ee2c1ea3013cdb}{num\+El}}
+\item 
+String \mbox{\hyperlink{class_j_conto_a4cfff30ec02286864b995e013b6c2a41}{nome}}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00017}{17}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+
+
+\doxysubsection{Constructor \& Destructor Documentation}
+\Hypertarget{class_j_conto_a7e7be43712194bf676763eeb94de1146}\label{class_j_conto_a7e7be43712194bf676763eeb94de1146} 
+\index{JConto@{JConto}!JConto@{JConto}}
+\index{JConto@{JConto}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{JConto()}{JConto()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_j_conto}{JConto}} (\begin{DoxyParamCaption}\item[{String}]{nome }\end{DoxyParamCaption})}
+
+costruttore parametrico 
+\begin{DoxyParams}{Parameters}
+{\em nome} & nome dell\textquotesingle{}intestatario \\
+\hline
+\end{DoxyParams}
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00032}{32}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=217pt]{class_j_conto_a7e7be43712194bf676763eeb94de1146_cgraph}
+\end{center}
+\end{figure}
+\Hypertarget{class_j_conto_a374acfdf262e6cac9e21b441c2bf6e8a}\label{class_j_conto_a374acfdf262e6cac9e21b441c2bf6e8a} 
+\index{JConto@{JConto}!JConto@{JConto}}
+\index{JConto@{JConto}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{JConto()}{JConto()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_j_conto}{JConto}} (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+costruttore non parametrico 
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00041}{41}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=217pt]{class_j_conto_a374acfdf262e6cac9e21b441c2bf6e8a_cgraph}
+\end{center}
+\end{figure}
+
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_j_conto_a98e139540dd0f6ee9bf88bc32fb7a731}\label{class_j_conto_a98e139540dd0f6ee9bf88bc32fb7a731} 
+\index{JConto@{JConto}!addMovimento@{addMovimento}}
+\index{addMovimento@{addMovimento}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{addMovimento()}{addMovimento()}}
+{\footnotesize\ttfamily void add\+Movimento (\begin{DoxyParamCaption}\item[{\mbox{\hyperlink{class_j_movimenti}{JMovimenti}}}]{movimento }\end{DoxyParamCaption})}
+
+metodo che aggiunge all\textquotesingle{}array di movimenti un movimento passato come parametro 
+\begin{DoxyParams}{Parameters}
+{\em movimento} & movimento passato come parametro \\
+\hline
+\end{DoxyParams}
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00067}{67}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=252pt]{class_j_conto_a98e139540dd0f6ee9bf88bc32fb7a731_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{class_j_conto_a156e1724d48c283897b67dc035276aae}\label{class_j_conto_a156e1724d48c283897b67dc035276aae} 
+\index{JConto@{JConto}!eliminaMovimento@{eliminaMovimento}}
+\index{eliminaMovimento@{eliminaMovimento}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{eliminaMovimento()}{eliminaMovimento()}}
+{\footnotesize\ttfamily void elimina\+Movimento (\begin{DoxyParamCaption}\item[{int}]{giorno,  }\item[{int}]{mese,  }\item[{int}]{anno }\end{DoxyParamCaption})}
+
+metodo che elimina tutti i movimenti accaduti in una certa data 
+\begin{DoxyParams}{Parameters}
+{\em giorno} & giorno passato come parametro \\
+\hline
+{\em mese} & mese passato come parametro \\
+\hline
+{\em anno} & anno passato come parametro \\
+\hline
+\end{DoxyParams}
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00103}{103}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=267pt]{class_j_conto_a156e1724d48c283897b67dc035276aae_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{class_j_conto_a9660dcf6252dcd22a965bdd7285857e2}\label{class_j_conto_a9660dcf6252dcd22a965bdd7285857e2} 
+\index{JConto@{JConto}!getEstratto@{getEstratto}}
+\index{getEstratto@{getEstratto}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{getEstratto()}{getEstratto()}}
+{\footnotesize\ttfamily String get\+Estratto (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+metodo che ritorna il saldo \begin{DoxyReturn}{Returns}
+saldo = somma algebrica dei movimenti 
+\end{DoxyReturn}
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00088}{88}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{class_j_conto_a9660dcf6252dcd22a965bdd7285857e2_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=237pt]{class_j_conto_a9660dcf6252dcd22a965bdd7285857e2_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{class_j_conto_a7b7ff7170199143b160d41a3e73201f4}\label{class_j_conto_a7b7ff7170199143b160d41a3e73201f4} 
+\index{JConto@{JConto}!getNome@{getNome}}
+\index{getNome@{getNome}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{getNome()}{getNome()}}
+{\footnotesize\ttfamily String get\+Nome (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+metodo che mi restituisce il nome dell\textquotesingle{}intestatario \begin{DoxyReturn}{Returns}
+nome dell\textquotesingle{}intestatario 
+\end{DoxyReturn}
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00059}{59}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+\Hypertarget{class_j_conto_a85c5afde0aeb7299a2dd5f35921da422}\label{class_j_conto_a85c5afde0aeb7299a2dd5f35921da422} 
+\index{JConto@{JConto}!getSaldo@{getSaldo}}
+\index{getSaldo@{getSaldo}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{getSaldo()}{getSaldo()}}
+{\footnotesize\ttfamily int get\+Saldo (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+metodo che ritorna il saldo \begin{DoxyReturn}{Returns}
+saldo = somma algebrica dei movimenti 
+\end{DoxyReturn}
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00076}{76}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=283pt]{class_j_conto_a85c5afde0aeb7299a2dd5f35921da422_cgraph}
+\end{center}
+\end{figure}
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=228pt]{class_j_conto_a85c5afde0aeb7299a2dd5f35921da422_icgraph}
+\end{center}
+\end{figure}
+\Hypertarget{class_j_conto_a4d41b18fe7ae467fec31ac2851f94b60}\label{class_j_conto_a4d41b18fe7ae467fec31ac2851f94b60} 
+\index{JConto@{JConto}!setNome@{setNome}}
+\index{setNome@{setNome}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{setNome()}{setNome()}}
+{\footnotesize\ttfamily void set\+Nome (\begin{DoxyParamCaption}\item[{String}]{nome }\end{DoxyParamCaption})}
+
+metodo che mi imposta il nome con il data passato come parametro 
+\begin{DoxyParams}{Parameters}
+{\em nome} & nome passato come parametro \\
+\hline
+\end{DoxyParams}
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00051}{51}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=217pt]{class_j_conto_a4d41b18fe7ae467fec31ac2851f94b60_icgraph}
+\end{center}
+\end{figure}
+
+
+\doxysubsection{Member Data Documentation}
+\Hypertarget{class_j_conto_a18bb187032bad829b19b54c1ca25ba4d}\label{class_j_conto_a18bb187032bad829b19b54c1ca25ba4d} 
+\index{JConto@{JConto}!MAXEL@{MAXEL}}
+\index{MAXEL@{MAXEL}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{MAXEL}{MAXEL}}
+{\footnotesize\ttfamily final int MAXEL = 50\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00019}{19}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+\Hypertarget{class_j_conto_a4cfff30ec02286864b995e013b6c2a41}\label{class_j_conto_a4cfff30ec02286864b995e013b6c2a41} 
+\index{JConto@{JConto}!nome@{nome}}
+\index{nome@{nome}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{nome}{nome}}
+{\footnotesize\ttfamily String nome\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00025}{25}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+\Hypertarget{class_j_conto_a3311aa6552b45a4506ee2c1ea3013cdb}\label{class_j_conto_a3311aa6552b45a4506ee2c1ea3013cdb} 
+\index{JConto@{JConto}!numEl@{numEl}}
+\index{numEl@{numEl}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{numEl}{numEl}}
+{\footnotesize\ttfamily int num\+El\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00023}{23}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+\Hypertarget{class_j_conto_a9de4c2a18f01ed5c611e43a5a8a07d1d}\label{class_j_conto_a9de4c2a18f01ed5c611e43a5a8a07d1d} 
+\index{JConto@{JConto}!vett@{vett}}
+\index{vett@{vett}!JConto@{JConto}}
+\doxysubsubsection{\texorpdfstring{vett}{vett}}
+{\footnotesize\ttfamily \mbox{\hyperlink{class_j_movimenti}{JMovimenti}} \mbox{[}$\,$\mbox{]} vett\hspace{0.3cm}{\ttfamily [private]}}
+
+
+
+Definition at line \mbox{\hyperlink{_j_conto_8java_source_l00021}{21}} of file \mbox{\hyperlink{_j_conto_8java_source}{JConto.\+java}}.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+src/\mbox{\hyperlink{_j_conto_8java}{JConto.\+java}}\end{DoxyCompactItemize}

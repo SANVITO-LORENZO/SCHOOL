@@ -1,0 +1,61 @@
+\doxysection{JMovimenti.\+java}
+\hypertarget{_j_movimenti_8java_source}{}\label{_j_movimenti_8java_source}\index{src/JMovimenti.java@{src/JMovimenti.java}}
+\mbox{\hyperlink{_j_movimenti_8java}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00001}00001\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00018}\mbox{\hyperlink{class_j_movimenti}{00018}}\ \textcolor{keyword}{public}\ \textcolor{keyword}{class\ }\mbox{\hyperlink{class_j_movimenti}{JMovimenti}}\ \{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00019}00019\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00020}00020\ \ \ \ \ \textcolor{comment}{/*attributo\ data\ */}}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00021}\mbox{\hyperlink{class_j_movimenti_a6b1fc58f1535f179521bb1d1b0952078}{00021}}\ \ \ \ \ \textcolor{keyword}{private}\ \mbox{\hyperlink{class_j_data}{JData}}\ \mbox{\hyperlink{class_j_movimenti_a6b1fc58f1535f179521bb1d1b0952078}{data}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00022}00022\ \ \ \ \ \textcolor{comment}{/*attributo\ importo\ */}\ \ \ \ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00023}\mbox{\hyperlink{class_j_movimenti_a99fab4935e56a58e39cb655d08122b4d}{00023}}\ \ \ \ \ \textcolor{keyword}{private}\ \textcolor{keywordtype}{int}\ \mbox{\hyperlink{class_j_movimenti_a99fab4935e56a58e39cb655d08122b4d}{importo}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00024}00024\ \ \ \ \ \textcolor{comment}{/*attributo\ causale\ */}\ \ \ \ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00025}\mbox{\hyperlink{class_j_movimenti_a1010b915510d7194a0adc997767a918e}{00025}}\ \ \ \ \ \textcolor{keyword}{private}\ String\ \mbox{\hyperlink{class_j_movimenti_a1010b915510d7194a0adc997767a918e}{causale}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00026}00026\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00027}00027\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00034}\mbox{\hyperlink{class_j_movimenti_aa849abf0d52da0ceaf83ad823b065d13}{00034}}\ \ \ \ \ \textcolor{keyword}{public}\ \mbox{\hyperlink{class_j_movimenti_aa849abf0d52da0ceaf83ad823b065d13}{JMovimenti}}(\mbox{\hyperlink{class_j_data}{JData}}\ \mbox{\hyperlink{class_j_movimenti_a6b1fc58f1535f179521bb1d1b0952078}{data}},\ \textcolor{keywordtype}{int}\ \mbox{\hyperlink{class_j_movimenti_a99fab4935e56a58e39cb655d08122b4d}{importo}},String\ \mbox{\hyperlink{class_j_movimenti_a1010b915510d7194a0adc997767a918e}{causale}})\{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00035}00035\ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_j_movimenti_aedd6714e6eecb0f319363eeee9a17c44}{setData}}(\mbox{\hyperlink{class_j_movimenti_a6b1fc58f1535f179521bb1d1b0952078}{data}});}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00036}00036\ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_j_movimenti_a93d5d33264f76f1dd9dfb2e2ecbf39bc}{setImporto}}(\mbox{\hyperlink{class_j_movimenti_a99fab4935e56a58e39cb655d08122b4d}{importo}});}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00037}00037\ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_j_movimenti_af311d44abde31f46422f50a9fdc24468}{setcausale}}(\mbox{\hyperlink{class_j_movimenti_a1010b915510d7194a0adc997767a918e}{causale}});}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00038}00038\ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00039}00039\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00043}\mbox{\hyperlink{class_j_movimenti_aae331c7144d8a7ea5830b669b8ee1ed4}{00043}}\ \ \ \ \ \textcolor{keyword}{public}\ \mbox{\hyperlink{class_j_movimenti_aae331c7144d8a7ea5830b669b8ee1ed4}{JMovimenti}}()\{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00044}00044\ \ \ \ \ \ \ \ \ this.data=\ \textcolor{keyword}{new}\ \mbox{\hyperlink{class_j_data}{JData}}(0,0,0);}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00045}00045\ \ \ \ \ \ \ \ \ this.importo=0;}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00046}00046\ \ \ \ \ \ \ \ \ this.causale=\textcolor{stringliteral}{"{}"{}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00047}00047\ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00048}00048\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00053}\mbox{\hyperlink{class_j_movimenti_aedd6714e6eecb0f319363eeee9a17c44}{00053}}\ \ \ \ \ \textcolor{keyword}{public}\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_j_movimenti_aedd6714e6eecb0f319363eeee9a17c44}{setData}}(\mbox{\hyperlink{class_j_data}{JData}}\ \mbox{\hyperlink{class_j_movimenti_a6b1fc58f1535f179521bb1d1b0952078}{data}})\{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00054}00054\ \ \ \ \ \ \ \ \ this.data=\mbox{\hyperlink{class_j_movimenti_a6b1fc58f1535f179521bb1d1b0952078}{data}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00055}00055\ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00056}00056\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00061}\mbox{\hyperlink{class_j_movimenti_a93d5d33264f76f1dd9dfb2e2ecbf39bc}{00061}}\ \ \ \ \ \textcolor{keyword}{public}\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_j_movimenti_a93d5d33264f76f1dd9dfb2e2ecbf39bc}{setImporto}}(\textcolor{keywordtype}{int}\ \mbox{\hyperlink{class_j_movimenti_a99fab4935e56a58e39cb655d08122b4d}{importo}})\{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00062}00062\ \ \ \ \ \ \ \ \ this.importo=\mbox{\hyperlink{class_j_movimenti_a99fab4935e56a58e39cb655d08122b4d}{importo}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00063}00063\ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00064}00064\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00069}\mbox{\hyperlink{class_j_movimenti_af311d44abde31f46422f50a9fdc24468}{00069}}\ \ \ \ \ \textcolor{keyword}{public}\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_j_movimenti_af311d44abde31f46422f50a9fdc24468}{setcausale}}(String\ \mbox{\hyperlink{class_j_movimenti_a1010b915510d7194a0adc997767a918e}{causale}})\{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00070}00070\ \ \ \ \ \ \ \ \ this.causale=\mbox{\hyperlink{class_j_movimenti_a1010b915510d7194a0adc997767a918e}{causale}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00071}00071\ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00072}00072\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00077}\mbox{\hyperlink{class_j_movimenti_a29d691cfd42be0d888f01e7bcc19f272}{00077}}\ \ \ \ \ \textcolor{keyword}{public}\ \mbox{\hyperlink{class_j_data}{JData}}\ \mbox{\hyperlink{class_j_movimenti_a29d691cfd42be0d888f01e7bcc19f272}{getData}}()\{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00078}00078\ \ \ \ \ \ \ \ \ \textcolor{keywordflow}{return}\ \mbox{\hyperlink{class_j_movimenti_a6b1fc58f1535f179521bb1d1b0952078}{data}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00079}00079\ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00080}00080\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00085}\mbox{\hyperlink{class_j_movimenti_a8f60e8f5bc4d3c16a31c112c6781baff}{00085}}\ \ \ \ \ \textcolor{keyword}{public}\ \textcolor{keywordtype}{int}\ \mbox{\hyperlink{class_j_movimenti_a8f60e8f5bc4d3c16a31c112c6781baff}{getImporto}}()\{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00086}00086\ \ \ \ \ \ \ \ \ \textcolor{keywordflow}{return}\ \mbox{\hyperlink{class_j_movimenti_a99fab4935e56a58e39cb655d08122b4d}{importo}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00087}00087\ \ \ \ \ \}\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00088}00088\ \ \ \ \ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00093}\mbox{\hyperlink{class_j_movimenti_a11ace47e733bb2650a7e442ce097dee6}{00093}}\ \ \ \ \ \textcolor{keyword}{public}\ String\ \mbox{\hyperlink{class_j_movimenti_a11ace47e733bb2650a7e442ce097dee6}{getCausale}}()\{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00094}00094\ \ \ \ \ \ \ \ \ \textcolor{keywordflow}{return}\ \mbox{\hyperlink{class_j_movimenti_a1010b915510d7194a0adc997767a918e}{causale}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00095}00095\ \ \ \ \ \}\ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00096}00096\ \ \ \ \ }
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00101}\mbox{\hyperlink{class_j_movimenti_ad146fa8579a5f8a876c4688cc5a68520}{00101}}\ \ \ \ \ \textcolor{keyword}{public}\ String\ \mbox{\hyperlink{class_j_movimenti_ad146fa8579a5f8a876c4688cc5a68520}{toString}}()\{}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00102}00102\ \ \ \ \ \ \ \ \ String\ tmp=\textcolor{stringliteral}{"{}"{}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00103}00103\ \ \ \ \ \ \ \ \ tmp+=\ \mbox{\hyperlink{class_j_movimenti_a6b1fc58f1535f179521bb1d1b0952078}{data}}.\mbox{\hyperlink{class_j_data_ad146fa8579a5f8a876c4688cc5a68520}{toString}}();}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00104}00104\ \ \ \ \ \ \ \ \ tmp+=\ \textcolor{stringliteral}{"{}importo:\ "{}}+\ \mbox{\hyperlink{class_j_movimenti_a99fab4935e56a58e39cb655d08122b4d}{importo}}\ +\ \textcolor{stringliteral}{"{}\(\backslash\)n"{}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00105}00105\ \ \ \ \ \ \ \ \ tmp+=\ \textcolor{stringliteral}{"{}causale:\ "{}}+\ \mbox{\hyperlink{class_j_movimenti_a1010b915510d7194a0adc997767a918e}{causale}}\ +\ \textcolor{stringliteral}{"{}\(\backslash\)n"{}};}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00106}00106\ \ \ \ \ \ \ \ \ \textcolor{keywordflow}{return}\ tmp;}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00107}00107\ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_j_movimenti_8java_source_l00108}00108\ \}}
+
+\end{DoxyCode}

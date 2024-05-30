@@ -1,0 +1,10 @@
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\bin\Debug\calcolatrice.exe.config
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\bin\Debug\calcolatrice.exe
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\bin\Debug\calcolatrice.pdb
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\obj\Debug\calcolatrice.csproj.AssemblyReference.cache
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\obj\Debug\calcolatrice.Form1.resources
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\obj\Debug\calcolatrice.Properties.Resources.resources
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\obj\Debug\calcolatrice.csproj.GenerateResource.cache
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\obj\Debug\calcolatrice.csproj.CoreCompileInputs.cache
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\obj\Debug\calcolatrice.exe
+D:\SANVITO LORENZO\calcolatrice\calcolatrice\obj\Debug\calcolatrice.pdb

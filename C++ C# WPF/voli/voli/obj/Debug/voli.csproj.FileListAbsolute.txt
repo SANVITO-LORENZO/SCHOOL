@@ -1,0 +1,10 @@
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\bin\Debug\voli.exe.config
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\bin\Debug\voli.exe
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\bin\Debug\voli.pdb
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\obj\Debug\voli.csproj.AssemblyReference.cache
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\obj\Debug\voli.Form1.resources
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\obj\Debug\voli.Properties.Resources.resources
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\obj\Debug\voli.csproj.GenerateResource.cache
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\obj\Debug\voli.csproj.CoreCompileInputs.cache
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\obj\Debug\voli.exe
+C:\Users\loris_7duv\Desktop\ripasso informatica\voli\voli\obj\Debug\voli.pdb

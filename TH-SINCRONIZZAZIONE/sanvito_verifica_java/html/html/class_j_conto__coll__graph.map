@@ -1,0 +1,7 @@
+<map id="JConto" name="JConto">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,592,140,853"/>
+<area shape="rect" id="Node000002" href="$class_j_movimenti.html" title=" " alt="" coords="25,267,121,528"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,528,75,575,70,575,70,528"/>
+<area shape="rect" id="Node000003" href="$class_j_data.html" title=" " alt="" coords="29,5,117,203"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,203,75,250,70,250,70,203"/>
+</map>

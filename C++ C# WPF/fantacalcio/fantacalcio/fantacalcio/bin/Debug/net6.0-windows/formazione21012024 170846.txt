@@ -1,0 +1,29 @@
+GIOCATORI ROSA:
+Cristiano Ronaldo
+Lionel Messi
+Neymar
+Kevin De Bruyne
+Robert Lewandowski
+Virgil van Dijk
+Mohamed Salah
+Kylian Mbappé
+Sadio Mané
+Alisson Becker
+Sergio Ramos
+Luka Modrić
+Eden Hazard
+Raheem Sterling
+Paulo Dybala
+GIOCATORI TITOLARI:
+Cristiano Ronaldo
+Lionel Messi
+Neymar
+Kevin De Bruyne
+Robert Lewandowski
+Virgil van Dijk
+Mohamed Salah
+Kylian Mbappé
+Sadio Mané
+Alisson Becker
+Sergio Ramos
+

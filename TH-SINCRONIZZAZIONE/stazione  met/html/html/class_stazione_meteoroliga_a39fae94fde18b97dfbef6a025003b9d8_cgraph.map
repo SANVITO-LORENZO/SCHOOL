@@ -1,0 +1,8 @@
+<map id="getValoriSopraMedia" name="getValoriSopraMedia">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,147,32"/>
+<area shape="rect" id="Node000002" href="$class_stazione_meteoroliga.html#ab4106fb1e2fd99e45e6de62b7865d50e" title=" " alt="" coords="354,5,428,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,16,339,16,339,21,147,21"/>
+<area shape="rect" id="Node000003" href="$class_stazione_meteoroliga.html#a44ccc7758fba1a79f7b201528366168b" title=" " alt="" coords="195,31,306,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,26,180,31,180,36,147,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="306,31,339,25,340,31,307,37"/>
+</map>

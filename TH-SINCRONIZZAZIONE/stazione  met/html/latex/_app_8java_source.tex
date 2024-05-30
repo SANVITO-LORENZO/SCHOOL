@@ -1,0 +1,36 @@
+\doxysection{App.\+java}
+\hypertarget{_app_8java_source}{}\label{_app_8java_source}\index{src/App.java@{src/App.java}}
+\mbox{\hyperlink{_app_8java}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00001}00001\ \textcolor{keyword}{import}\ java.util.Scanner;}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00002}00002\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00003}\mbox{\hyperlink{class_app}{00003}}\ \textcolor{keyword}{public}\ \textcolor{keyword}{class\ }\mbox{\hyperlink{class_app}{App}}\{}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00004}00004\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00005}\mbox{\hyperlink{class_app_a8b260eecbaabcef8473fd87ada040682}{00005}}\ \ \ \ \ \textcolor{keyword}{public}\ \textcolor{keyword}{static}\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_app_a8b260eecbaabcef8473fd87ada040682}{main}}(String[]\ args)\ \{}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00006}00006\ \ \ \ \ \ \ \ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00007}00007\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00008}00008\ \ \ \ \ \ \ \ \textcolor{comment}{//TUTTE\ LE\ SET}}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00009}00009\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00010}00010\ \ \ \ \ \ \ \ \ Scanner\ s=\ \textcolor{keyword}{new}\ Scanner(System.in);}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00011}00011\ \ \ \ \ \ \ \ \ System.out.println(\textcolor{stringliteral}{"{}QUANTI\ VALORI:\ "{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00012}00012\ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{int}\ NValori=s.nextInt();}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00013}00013\ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_stazione_meteoroliga}{StazioneMeteoroliga}}\ sm=\ \textcolor{keyword}{new}\ \mbox{\hyperlink{class_stazione_meteoroliga}{StazioneMeteoroliga}}(NValori);}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00014}00014\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00015}00015\ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{int}\ i=0;}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00016}00016\ \ \ \ \ \ \ \ \ \textcolor{keywordflow}{while}(i<NValori)\{}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00017}00017\ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println(\textcolor{stringliteral}{"{}DAMMI\ IL\ VALORE\ "{}}\ +\ i\ +\ \textcolor{stringliteral}{"{}\ :"{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00018}00018\ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{keywordtype}{float}\ tmep=s.nextFloat();}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00019}00019\ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{keywordflow}{if}(sm.\mbox{\hyperlink{class_stazione_meteoroliga_a1192fac76262e381b6a803f085882978}{setTemperatura}}(tmep,\ i))\{}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00020}00020\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println(\textcolor{stringliteral}{"{}Temperatura\ "{}}\ +\ tmep+\ \textcolor{stringliteral}{"{}impostata\ con\ successo"{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00021}00021\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ i++;}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00022}00022\ \ \ \ \ \ \ \ \ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00023}00023\ \ \ \ \ \ \ \ \ \ \ \ \ \textcolor{keywordflow}{else}\{}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00024}00024\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println(\textcolor{stringliteral}{"{}Errore\ nell'impostazione\ della\ temperatura"{}}+\ tmep);}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00025}00025\ \ \ \ \ \ \ \ \ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00026}00026\ \ \ \ \ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00027}00027\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00028}00028\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00029}00029\ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00030}00030\ \}}
+
+\end{DoxyCode}

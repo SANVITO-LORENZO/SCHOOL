@@ -1,0 +1,11 @@
+FPS
+TPS
+RPG
+Rogue Like
+Platform
+Battle Royal
+MMORPG
+MOBA
+Open World
+Survival
+Simulation

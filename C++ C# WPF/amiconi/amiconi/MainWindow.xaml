@@ -1,0 +1,16 @@
+﻿<Window x:Class="amiconi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:amiconi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BTT_AGGIUNGI" Content="AGGIUNGI" HorizontalAlignment="Left" Margin="512,150,0,0" VerticalAlignment="Top" Height="80" Width="200" Click="BTT_AGGIUNGI_Click"/>
+        <Button x:Name="BTT_GENERAINVITI" Content="GENERA INVITI" HorizontalAlignment="Left" Margin="512,300,0,0" VerticalAlignment="Top" Height="80" Width="200" Click="BTT_GENERAINVITI_Click"/>
+        <ListBox x:Name="LISTA_1" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="36,34,588,34" IsSynchronizedWithCurrentItem="True" SelectionChanged="LISTA_1_SelectionChanged"/>
+        <ListBox x:Name="LISTA_2" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="272,34,352,34" IsEnabled="False" IsSynchronizedWithCurrentItem="False"/>
+
+    </Grid>
+</Window>

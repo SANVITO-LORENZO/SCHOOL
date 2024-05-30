@@ -1,0 +1,15 @@
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\bin\Debug\amiconi.exe.config
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\bin\Debug\amiconi.exe
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\bin\Debug\amiconi.pdb
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\amiconi.csproj.AssemblyReference.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\MainWindow.g.cs
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\App.g.cs
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\amiconi_MarkupCompile.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\amiconi_MarkupCompile.lref
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\MainWindow.baml
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\amiconi.g.resources
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\amiconi.Properties.Resources.resources
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\amiconi.csproj.GenerateResource.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\amiconi.csproj.CoreCompileInputs.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\amiconi.exe
+C:\Users\loris_7duv\Desktop\ripasso info c#\amiconi\amiconi\obj\Debug\amiconi.pdb

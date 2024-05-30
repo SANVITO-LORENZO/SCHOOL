@@ -1,0 +1,15 @@
+D:\SANVITO LORENZO\databainding\databainding\bin\Debug\databainding.exe.config
+D:\SANVITO LORENZO\databainding\databainding\bin\Debug\databainding.exe
+D:\SANVITO LORENZO\databainding\databainding\bin\Debug\databainding.pdb
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\databainding.csproj.AssemblyReference.cache
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\MainWindow.g.cs
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\App.g.cs
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\databainding_MarkupCompile.cache
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\databainding_MarkupCompile.lref
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\MainWindow.baml
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\databainding.g.resources
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\databainding.Properties.Resources.resources
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\databainding.csproj.GenerateResource.cache
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\databainding.csproj.CoreCompileInputs.cache
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\databainding.exe
+D:\SANVITO LORENZO\databainding\databainding\obj\Debug\databainding.pdb

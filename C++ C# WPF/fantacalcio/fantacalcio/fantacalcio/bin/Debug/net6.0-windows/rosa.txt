@@ -1,0 +1,15 @@
+Cristiano Ronaldo; Attaccante; 7
+Lionel Messi; Attaccante; 10
+Neymar; Attaccante; 11
+Kevin De Bruyne; Centrocampista; 17
+Robert Lewandowski; Attaccante; 9
+Virgil van Dijk; Difensore; 4
+Mohamed Salah; Attaccante; 11
+Kylian Mbappé; Attaccante; 7
+Sadio Mané; Attaccante; 10
+Alisson Becker; Portiere; 1
+Sergio Ramos; Difensore; 4
+Luka Modrić; Centrocampista; 10
+Eden Hazard; Attaccante; 7
+Raheem Sterling; Attaccante; 7
+Paulo Dybala; Attaccante; 10

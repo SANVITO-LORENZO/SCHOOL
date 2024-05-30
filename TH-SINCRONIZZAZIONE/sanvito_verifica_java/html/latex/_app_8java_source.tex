@@ -1,0 +1,38 @@
+\doxysection{App.\+java}
+\hypertarget{_app_8java_source}{}\label{_app_8java_source}\index{src/App.java@{src/App.java}}
+\mbox{\hyperlink{_app_8java}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00001}00001\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00029}\mbox{\hyperlink{class_app}{00029}}\ \textcolor{keyword}{public}\ \textcolor{keyword}{class\ }\mbox{\hyperlink{class_app}{App}}\{}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00030}\mbox{\hyperlink{class_app_a8b260eecbaabcef8473fd87ada040682}{00030}}\ \ \ \ \ \textcolor{keyword}{public}\ \textcolor{keyword}{static}\ \textcolor{keywordtype}{void}\ \mbox{\hyperlink{class_app_a8b260eecbaabcef8473fd87ada040682}{main}}(String[]\ args)\ \{}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00031}00031\ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_j_data}{JData}}\ data1=\textcolor{keyword}{new}\ \mbox{\hyperlink{class_j_data}{JData}}(10,11,2020);}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00032}00032\ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_j_data}{JData}}\ data2=\textcolor{keyword}{new}\ \mbox{\hyperlink{class_j_data}{JData}}(10,11,2022);}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00033}00033\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00034}00034\ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_j_movimenti}{JMovimenti}}\ mov1=\textcolor{keyword}{new}\ \mbox{\hyperlink{class_j_movimenti}{JMovimenti}}(data1,1000,\textcolor{stringliteral}{"{}retta\ scuola"{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00035}00035\ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_j_movimenti}{JMovimenti}}\ mov2=\textcolor{keyword}{new}\ \mbox{\hyperlink{class_j_movimenti}{JMovimenti}}(data2,-\/50,\textcolor{stringliteral}{"{}retta\ scuola"{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00036}00036\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00037}00037\ \ \ \ \ \ \ \ \ \mbox{\hyperlink{class_j_conto}{JConto}}\ conto=\textcolor{keyword}{new}\ \mbox{\hyperlink{class_j_conto}{JConto}}(\textcolor{stringliteral}{"{}pablito"{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00038}00038\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00039}00039\ \ \ \ \ \ \ \ \ conto.\mbox{\hyperlink{class_j_conto_a98e139540dd0f6ee9bf88bc32fb7a731}{addMovimento}}(mov1);}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00040}00040\ \ \ \ \ \ \ \ \ conto.\mbox{\hyperlink{class_j_conto_a98e139540dd0f6ee9bf88bc32fb7a731}{addMovimento}}(mov2);}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00041}00041\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00042}00042\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00043}00043\ \ \ \ \ \ \ \ \ System.out.println(\textcolor{stringliteral}{"{}SALDO\ \(\backslash\)n"{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00044}00044\ \ \ \ \ \ \ \ \ System.out.println(conto.\mbox{\hyperlink{class_j_conto_a85c5afde0aeb7299a2dd5f35921da422}{getSaldo}}());}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00045}00045\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00046}00046\ \ \ \ \ \ \ \ \ System.out.println(\textcolor{stringliteral}{"{}\ \(\backslash\)n\ ESTRATTO\ \(\backslash\)n"{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00047}00047\ \ \ \ \ \ \ \ \ System.out.println(conto.\mbox{\hyperlink{class_j_conto_a9660dcf6252dcd22a965bdd7285857e2}{getEstratto}}());}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00048}00048\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00049}00049\ \ \ \ \ \ \ \ \ conto.\mbox{\hyperlink{class_j_conto_a156e1724d48c283897b67dc035276aae}{eliminaMovimento}}(10,11,2020);}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00050}00050\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00051}00051\ \ \ \ \ \ \ \ \ System.out.println(\textcolor{stringliteral}{"{}SALDO\ \(\backslash\)n"{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00052}00052\ \ \ \ \ \ \ \ \ System.out.println(conto.\mbox{\hyperlink{class_j_conto_a85c5afde0aeb7299a2dd5f35921da422}{getSaldo}}());}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00053}00053\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00054}00054\ \ \ \ \ \ \ \ \ System.out.println(\textcolor{stringliteral}{"{}\ \(\backslash\)n\ ESTRATTO\ \(\backslash\)n"{}});}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00055}00055\ \ \ \ \ \ \ \ \ System.out.println(conto.\mbox{\hyperlink{class_j_conto_a9660dcf6252dcd22a965bdd7285857e2}{getEstratto}}());}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00056}00056\ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00057}00057\ \ \ \ \ \ \ \ \ }
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00058}00058\ \ \ \ \ \}}
+\DoxyCodeLine{\Hypertarget{_app_8java_source_l00059}00059\ \}}
+
+\end{DoxyCode}

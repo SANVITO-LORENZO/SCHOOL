@@ -1,0 +1,15 @@
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\bin\Debug\filebinario.exe.config
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\bin\Debug\filebinario.exe
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\bin\Debug\filebinario.pdb
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\filebinario.csproj.AssemblyReference.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\MainWindow.g.cs
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\App.g.cs
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\filebinario_MarkupCompile.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\filebinario_MarkupCompile.lref
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\MainWindow.baml
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\filebinario.g.resources
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\filebinario.Properties.Resources.resources
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\filebinario.csproj.GenerateResource.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\filebinario.csproj.CoreCompileInputs.cache
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\filebinario.exe
+C:\Users\loris_7duv\Desktop\ripasso info c#\filebinario\filebinario\obj\Debug\filebinario.pdb

@@ -1,0 +1,10 @@
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\bin\Debug\CONCESSIONARIA.exe.config
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\bin\Debug\CONCESSIONARIA.exe
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\bin\Debug\CONCESSIONARIA.pdb
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\obj\Debug\CONCESSIONARIA.csproj.AssemblyReference.cache
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\obj\Debug\CONCESSIONARIA.Form1.resources
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\obj\Debug\CONCESSIONARIA.Properties.Resources.resources
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\obj\Debug\CONCESSIONARIA.csproj.GenerateResource.cache
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\obj\Debug\CONCESSIONARIA.csproj.CoreCompileInputs.cache
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\obj\Debug\CONCESSIONARIA.exe
+C:\Users\loris_7duv\Desktop\ripasso informatica\CONCESSIONARIA\CONCESSIONARIA\obj\Debug\CONCESSIONARIA.pdb
